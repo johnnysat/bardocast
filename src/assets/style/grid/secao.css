@@ -14,6 +14,8 @@
 
 .secao__cartoes {
   display: grid;
+  row-gap: 1rem;
+  column-gap: 1.25rem;
 
   --largura-minima-da-coluna: 100%/2;
 
